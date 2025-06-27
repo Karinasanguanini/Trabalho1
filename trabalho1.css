@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(212, 146, 199);
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-size:25px;
+    text-align:justify;
+}
+
+ul {
+    line-height: 2.5;
+    font-size:25px;
+}
+
+img {
+    border-radius: 25px;
+    width: 30px;
+    height: 30px;
+}
+
+table {
+    width: 50%;
+    margin: 30px;
+    background-color: rgb(221, 49, 147);
+    text-transform:none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+a:hover {
+    background-color:darkmagenta;
+}
